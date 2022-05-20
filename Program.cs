@@ -103,6 +103,21 @@ static void LerDiretorios(string path)
 
 }
 
-var path = @"E:\Projetosdev\DirectoryAndDirectoryInfo\globo";
-LerDiretorios(path);
+static void LerArquivos(string path){
+var arquivos = Directory.GetFiles(path, "*", SearchOption.AllDirectories);
+
+foreach (var arquivo in arquivos)
+{
+    var fileInfo = new FileInfo(arquivo);
+    Console.WriteLine($"[Nome]: {fileInfo.Name}");
+    Console.WriteLine($"[Tamanho]: {fileInfo.Length}");
+    Console.WriteLine($"[Ultimo acesso]: {fileInfo.LastAccessTime}");
+    Console.WriteLine($"[Pasta]: {fileInfo.Directory}");
+    Console.WriteLine($"---------------------------");
+}
+}
+
+var path = @"E:\Projetosdev\DirectoryAndDirectoryInfo\";
+//LerDiretorios(path);
+LerArquivos(path);
 Console.ReadLine();
