@@ -1,0 +1,30 @@
+E:\Projetos dev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.exe
+E:\Projetos dev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.deps.json
+E:\Projetos dev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+E:\Projetos dev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+E:\Projetos dev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\refint\DirectoryAndDirectoryInfo.dll
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+E:\Projetos dev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\ref\DirectoryAndDirectoryInfo.dll
+E:\ProjetosDev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.exe
+E:\ProjetosDev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.deps.json
+E:\ProjetosDev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+E:\ProjetosDev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+E:\ProjetosDev\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\refint\DirectoryAndDirectoryInfo.dll
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+E:\ProjetosDev\DirectoryAndDirectoryInfo\obj\Debug\net6.0\ref\DirectoryAndDirectoryInfo.dll
